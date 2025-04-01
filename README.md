@@ -15,4 +15,4 @@
 |Memory/Process|2485MiB|2308MiB|1178MiB|1902MiB|6266MiB|12188Mib|
 |Time/episode|3.34s|2.56s|1.78s|2.10s|2.78s|4.17s|
 
-![Multi-UAV](DRN_train.png)
+![Multi-UAV](multi_uav.png)
